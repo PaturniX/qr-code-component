@@ -26,10 +26,10 @@ p {
 h2 {
   font-weight: 700;
 }
-.Container {
+.container {
   display: flex;
   margin: auto;
-  width: 300px;
+  width: 310px;
   height: auto;
 }
 .cardContainer {
@@ -43,7 +43,7 @@ h2 {
 }
 .cardImgage img {
   border-radius: 1rem;
-  width: 300px;
+  width: 310px;
 }
 .attribution {
   font-size: 11px;
