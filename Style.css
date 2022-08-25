@@ -7,11 +7,13 @@
   --Dark-blue: hsl(218, 44%, 22%);
 }
 
-body {
-  font-family: "Outfit", sans-serif;
-  box-sizing: border-box;
+body{
   margin: 0;
   padding: 0;
+}
+main {
+  font-family: "Outfit", sans-serif;
+  box-sizing: border-box;
   height: 100vh;
   background: var(--light-gray);
   display: flex;
@@ -29,6 +31,7 @@ h2 {
 .container {
   display: flex;
   margin: auto;
+  justify-content: center;
   width: 310px;
   height: auto;
 }
